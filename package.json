@@ -1,0 +1,16 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "Building a file metadata microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suresh Mangs",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
